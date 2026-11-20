@@ -1,0 +1,10 @@
+{
+  "name": "Sajib Assistant",
+  "short_name": "Sajib AI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080d1c",
+  "theme_color": "#080d1c",
+  "description": "Personal bilingual AI assistant",
+  "icons": []
+}
