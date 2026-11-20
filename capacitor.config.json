@@ -1,0 +1,6 @@
+{
+  "appId": "com.sajib.assistant",
+  "appName": "Sajib Assistant",
+  "webDir": "public",
+  "bundledWebRuntime": false
+}
